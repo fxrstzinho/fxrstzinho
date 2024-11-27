@@ -1,19 +1,77 @@
-## Hello! I am First
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/b635c8fd-5bc2-42de-bd6c-f5fd347b9b03"/>
+<br>
+<br> 
 
-- 🔭 Today I work with back-end
-- 🌱 Studying React Native
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4465e9&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+First;I'm+a+Software+Developer;I'm+from+Brazil;welcome🙃%3A)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="First-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="First-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="First-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="First-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="First-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br>
+<br>
+
+<div align="center">
   
-  ##
- 
-<div>
-  <a href="https://instagram.com/fxrstzinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/504786925085917229" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fxrstzinho&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 </div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/fxrstzinho" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
+
+</div>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/fxrstzinho?chart=3dbar&gap=0.6&scale=2&light=1&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
+</div>
+
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/fdd71aa4-090f-4799-a454-92b4d4c03cf4">
+  
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/91ced65b-5d1a-4d03-a5ee-8a17ad52387a">
+
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+<div align="center">
+<h3> If you support me, click here, give me a coffee</h3>
+<a href="https://ko-fi.com/fxrstzinha" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
+</a>
+</div>
+
+<br>
+<br> 
+
+
+<img width=100% src="https://github.com/user-attachments/assets/c0d6e18f-5ad0-4f1b-a385-4bdf6899f187"/>
+
+
+
+
+
+
+
+
