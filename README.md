@@ -2,20 +2,20 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4465e9&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+First;I'm+a+Software+Developer;I'm+from+Brazil;welcome🙃%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4465e9&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Winter;I'm+a+Software+Developer;I'm+from+Brazil;welcome🙃%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fxrstzinho&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thisinwinter&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 </div>
 
 
 <div align="center"> 
-<a href="https://instagram.com/fxrstzinho" target="_blank">
+<a href="https://instagram.com/thisinwinter" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
@@ -23,7 +23,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/fxrstzinho?chart=3dbar&gap=0.6&scale=2&light=1&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/thisinwinter?chart=3dbar&gap=0.6&scale=2&light=1&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
 </div>
 
@@ -54,13 +54,6 @@
 <br>
 <br>
 <br> 
-
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/fxrstzinha" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
 
 <br>
 <br> 
